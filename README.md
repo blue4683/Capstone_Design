@@ -120,5 +120,5 @@
 </br>
 
 </br>
-<p align="center"><img src=./src/lego_sort_result.gif width='50%' title="result"></p>
+<p align="center"><img src=./src/lego_sort_result.gif title="result"></p>
 </br>
